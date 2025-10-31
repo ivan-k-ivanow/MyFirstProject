@@ -1,1 +1,1 @@
-This is a project created by SoftUni on which I am working on.
+This is a project created by SoftUni.
